@@ -1,4 +1,4 @@
 Links with issues 
 
-http://www.weoifmweoidsadf.com
-http://nowaythiswillworkandecopsareamazing.com
+In file:testme.html the broken link is: http://www.weoifmweoidsadf.com
+In file:testme.html the broken link is: http://nowaythiswillworkandecopsareamazing.com
