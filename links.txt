@@ -1,4 +1,6 @@
 Links with issues 
 
-In file:testme.html the broken link is: http://www.weoifmweoidsadf.com
-In file:testme.html the broken link is: http://nowaythiswillworkandecopsareamazing.com
+In file: testme copy.html the broken link is: http://www.cinwosfnwodifndioeaf.co.uk
+In file: testme copy.html the broken link is: http://www.weoifmweoidsadf.com
+In file: testme.html the broken link is: http://www.weoifmweoidsadf.com
+In file: testme.html the broken link is: http://nowaythiswillworkandecopsareamazing.com
